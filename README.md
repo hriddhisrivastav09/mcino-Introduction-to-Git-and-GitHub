@@ -13,5 +13,5 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2022 IBM Developer Skills Network_
+_© 2023 XYZ, Inc._
 
